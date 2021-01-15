@@ -1,19 +1,19 @@
 {
   "repoSenseVersion": "0b7e276b40",
-  "reportGeneratedTime": "Fri Jan 15 06:59:04 2021 UTC",
-  "reportGenerationTime": " 1.39 second(s)",
+  "reportGeneratedTime": "Fri Jan 15 07:04:25 2021 UTC",
+  "reportGenerationTime": " 6.65 second(s)",
   "zoneId": "UTC",
   "reportTitle": "RepoSense Report",
   "repos": [
     {
       "location": {
-        "location": "https://github.com/HCY123902/ip.git",
-        "repoName": "ip",
-        "organization": "HCY123902"
+        "location": "https://github.com/reposense/RepoSense.git",
+        "repoName": "RepoSense",
+        "organization": "reposense"
       },
       "branch": "master",
-      "displayName": "HCY123902/ip[master]",
-      "outputFolderName": "HCY123902_ip_master"
+      "displayName": "reposense/RepoSense[master]",
+      "outputFolderName": "reposense_RepoSense_master"
     }
   ],
   "errorList": [],

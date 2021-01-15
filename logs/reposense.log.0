@@ -1,18 +1,20 @@
-Jan 15, 2021 6:59:04 AM reposense.report.RepoCloner spawnCloneProcess
-INFO: Cloning in parallel from https://github.com/HCY123902/ip.git...
-Jan 15, 2021 6:59:04 AM reposense.report.RepoCloner waitForCloneProcess
-INFO: Waiting for cloning of https://github.com/HCY123902/ip.git to complete...
-Jan 15, 2021 6:59:05 AM reposense.report.RepoCloner waitForCloneProcess
-INFO: Cloning of https://github.com/HCY123902/ip.git completed!
-Jan 15, 2021 6:59:05 AM reposense.report.ReportGenerator analyzeRepos
-INFO: [1/1] Analyzing https://github.com/HCY123902/ip.git (master)...
-Jan 15, 2021 6:59:05 AM reposense.report.ReportGenerator updateRepoConfig
-INFO: https://github.com/HCY123902/ip.git (master) does not contain a standalone config file.
-Jan 15, 2021 6:59:05 AM reposense.report.ReportGenerator updateAuthorList
-INFO: https://github.com/HCY123902/ip.git (master) has no authors specified, using all authors by default.
-Jan 15, 2021 6:59:05 AM reposense.report.ReportGenerator analyzeRepos
-WARNING: No authors found with commits for https://github.com/HCY123902/ip.git (master).
-Jan 15, 2021 6:59:05 AM reposense.report.ReportGenerator generateReposReport
+Jan 15, 2021 7:04:25 AM reposense.report.RepoCloner spawnCloneProcess
+INFO: Cloning in parallel from https://github.com/reposense/RepoSense.git...
+Jan 15, 2021 7:04:25 AM reposense.report.RepoCloner waitForCloneProcess
+INFO: Waiting for cloning of https://github.com/reposense/RepoSense.git to complete...
+Jan 15, 2021 7:04:29 AM reposense.report.RepoCloner waitForCloneProcess
+INFO: Cloning of https://github.com/reposense/RepoSense.git completed!
+Jan 15, 2021 7:04:29 AM reposense.report.ReportGenerator analyzeRepos
+INFO: [1/1] Analyzing https://github.com/reposense/RepoSense.git (master)...
+Jan 15, 2021 7:04:29 AM reposense.commits.CommitInfoExtractor extractCommitInfos
+INFO: Extracting commits info for https://github.com/reposense/RepoSense.git (master)...
+Jan 15, 2021 7:04:29 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
+INFO: Analyzing commits info for https://github.com/reposense/RepoSense.git (master)...
+Jan 15, 2021 7:04:29 AM reposense.authorship.FileInfoExtractor extractFileInfos
+INFO: Extracting relevant file info from https://github.com/reposense/RepoSense.git (master)...
+Jan 15, 2021 7:04:31 AM reposense.report.ReportGenerator analyzeRepo
+INFO: Analysis of https://github.com/reposense/RepoSense.git (master) completed!
+Jan 15, 2021 7:04:31 AM reposense.report.ReportGenerator generateReposReport
 INFO: The report is generated at /home/travis/build/HCY123902/publish-RepoSense/reposense-report
-Jan 15, 2021 6:59:05 AM reposense.RepoSense main
-INFO: Elapsed processing time: 1.41 second(s)
+Jan 15, 2021 7:04:31 AM reposense.RepoSense main
+INFO: Elapsed processing time: 6.67 second(s)
